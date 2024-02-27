@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p>E-commerce-Project</p>
+      <h1>E-Commerce</h1>
     </>
   );
 }
